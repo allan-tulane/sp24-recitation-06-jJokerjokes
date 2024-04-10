@@ -36,3 +36,7 @@ Place all written answers from `recitation-07.md` here for easier grading.
   
 
 - **8)**
+
+- $W(n) = W(n-1) + O(1) = O(n)$
+
+- $S(n) = S(n-1) + O(1) = O(n)$
